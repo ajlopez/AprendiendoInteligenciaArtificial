@@ -45,3 +45,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Inteligencia artificial, Wikipedia](https://es.wikipedia.org/wiki/Inteligencia_artificial)
 
 Publico regularmente enlaces en mi serie de post [Artificial Intelligence: Links, News And Resources](https://ajlopez.wordpress.com/2013/02/26/artificial-intelligence-links-and-resources-1/)
+
+## Presentaciones
+
+- [Introduction to Artificial Intelligence](https://docs.google.com/presentation/d/1RqbTiqurPtd3FeaJZFeb7WnfcjQouzcvk03Py0sQm7A)
