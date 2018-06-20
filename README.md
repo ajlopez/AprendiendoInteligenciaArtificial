@@ -31,6 +31,12 @@ Los temas a tratar, en este repositorio y otros, son:
 - Programación Evolutiva
 - Redes Neuronales
 
+## Repositorios
+
+Otros repositorios
+
+- [Aprendiendo Machine Learning](https://github.com/ajlopez/AprendiendoMachineLearning)
+
 ## Libros
 
 Me han servido de guía, estos libros:
