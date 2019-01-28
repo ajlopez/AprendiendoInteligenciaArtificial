@@ -36,6 +36,7 @@ Los temas a tratar, en este repositorio y otros, son:
 Otros repositorios
 
 - [Aprendiendo Machine Learning](https://github.com/ajlopez/AprendiendoMachineLearning)
+- [Aprendiendo Deep Learning](https://github.com/ajlopez/AprendiendoDeepLearning)
 
 ## Libros
 
@@ -49,6 +50,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 
 - [Artificial intelligence, Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [Inteligencia artificial, Wikipedia](https://es.wikipedia.org/wiki/Inteligencia_artificial)
+- [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 Publico regularmente enlaces en mi serie de post [Artificial Intelligence: Links, News And Resources](https://ajlopez.wordpress.com/2013/02/26/artificial-intelligence-links-and-resources-1/)
 
