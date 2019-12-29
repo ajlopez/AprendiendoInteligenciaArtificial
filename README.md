@@ -53,6 +53,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 - [How to Start an AI Startup](https://www.youtube.com/watch?v=9bbS-trc8ys)
 - [Andrew Ng - The State of Artificial Intelligence](https://www.youtube.com/watch?v=NKpuX_yzdYs)
+- [The Age of A.I.](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 
 Publico regularmente enlaces en mi serie de post [Artificial Intelligence: Links, News And Resources](https://ajlopez.wordpress.com/2013/02/26/artificial-intelligence-links-and-resources-1/)
 
